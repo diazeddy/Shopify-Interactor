@@ -1,0 +1,12 @@
+{
+  "name": "shopify-interactor",
+  "version": "1.0.0",
+  "description": "Build a simple script that communicate with shopify through Shopify’s graphql APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
